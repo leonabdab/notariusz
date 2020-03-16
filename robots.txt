@@ -8,5 +8,6 @@ Allow: /
 
 Disallow: /src
 Disallow: /utils
-
+Disallow: CMAP
+Disallow: ./DS_Store
 Sitemap: https://notariusz-mizia-muc.pl/sitemap.xml
